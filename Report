@@ -1,0 +1,6 @@
+My moto for this project is to scrape data from the BurgerKing store locator website and collect the data in CSV format.
+This project was indeed very helpful and discoverable for me.
+I have used 'requests' and 'beautifulsoup' Python libraries for scraping the data and 'pandas' and 'numpy' Python libraries for storing data in the form of lists and dataframe to save it as a CSV file.
+The main problems that I faced were finding the accurate class for the data specified and appending it to the CSV file.
+It was very interesting to mess around with HTML and CSS elements of the required page source and even if it would take a lot of time, it would all be worth it.
+By using this code format, you'll be able to scrape the required data and can append it in CSV file. 
